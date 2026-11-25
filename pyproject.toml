@@ -1,6 +1,6 @@
 [project]
 name = "string-interning-pool-tools"
-version = "0.1.2"
+version = "0.1.3"
 description = "Keeps one canonical str object per distinct value so repeated strings share storage."
 requires-python = ">=3.10"
 dependencies = []
